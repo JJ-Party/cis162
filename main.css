@@ -1,0 +1,33 @@
+@charset "utf-8";
+
+
+html {
+    background-color: hsl(188, 59%, 58.4%);
+}
+
+body {
+    color: rgb(01,35,20);
+    background-color: lightgray;
+}
+
+h1 {
+    color: white;
+    background-color: rgb(70, 125, 151);
+}
+
+header {
+    color: white;
+    background-color: rgb(145, 156, 174)
+}
+
+nav > ul {
+    line-height: 1.5em;
+    list-style-type: none;
+    padding-left: 10px;
+    
+}
+
+footer {
+    color:bisque;
+    background-color: rgb(70,170,80)
+}
